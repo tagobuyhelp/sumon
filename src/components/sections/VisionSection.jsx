@@ -1,3 +1,4 @@
+import React from 'react';
 import { FaUsers, FaIndustry, FaGraduationCap, FaHome } from 'react-icons/fa';
 
 const VisionSection = () => {

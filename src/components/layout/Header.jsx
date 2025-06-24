@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import React from 'react';
+import { useState, useEffect } from 'react';
 import { FaBars, FaTimes } from 'react-icons/fa';
 
 const Header = () => {
@@ -30,14 +30,15 @@ const Header = () => {
 
     return (
         <header
-            className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled ? 'bg-white shadow-md py-2' : 'bg-transparent py-4'
-                }`}
+            className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
+                isScrolled ? 'bg-white shadow-md py-2' : 'bg-transparent py-4'
+            }`}
         >
             <div className="container-custom flex justify-between items-center">
                 {/* Logo */}
-                <Link to="#" className="text-2xl font-bold">
-                    <span className={isScrolled ? 'text-primary' : 'text-white'}>Kazi Mahasin Azim</span>
-                </Link>
+                <a href="#" className="text-2xl font-bold">
+                    <span className={isScrolled ? 'text-blue-800' : 'text-white'}>Kazi Mahasin Azim</span>
+                </a>
 
                 {/* Desktop Navigation */}
                 <nav className="hidden md:block">
@@ -46,8 +47,9 @@ const Header = () => {
                             <li key={index}>
                                 <a
                                     href={link.path}
-                                    className={`font-medium hover:text-primary transition-colors ${isScrolled ? 'text-gray-800' : 'text-white'
-                                        }`}
+                                    className={`font-medium hover:text-blue-800 transition-colors ${
+                                        isScrolled ? 'text-gray-800' : 'text-white'
+                                    }`}
                                 >
                                     {link.name}
                                 </a>
@@ -77,7 +79,7 @@ const Header = () => {
                                 <li key={index}>
                                     <a
                                         href={link.path}
-                                        className="block font-medium text-gray-800 hover:text-primary transition-colors"
+                                        className="block font-medium text-gray-800 hover:text-blue-800 transition-colors"
                                         onClick={() => setIsMenuOpen(false)}
                                     >
                                         {link.name}

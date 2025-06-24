@@ -1,3 +1,4 @@
+import React from 'react';
 import { FaUserTie, FaUsers, FaPeopleCarry } from 'react-icons/fa';
 
 const ProgramsSection = () => {
