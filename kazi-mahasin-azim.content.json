@@ -1,0 +1,111 @@
+{
+    "name": "Kazi Mahasin Azim",
+    "nickName": "Sumon",
+    "tagline": "Rise Beyond Limits",
+    "title": "Entrepreneur | Business Coach | Motivational Speaker | Social Reformer",
+    "founderOf": [
+        "EME Academy",
+        "Hospice Properties Pvt. Ltd.",
+        "Yellow Tea"
+    ],
+    "audience": [
+        "Aspiring Entrepreneurs",
+        "Youth from underprivileged backgrounds",
+        "Business owners looking to scale sustainably",
+        "Community changemakers"
+    ],
+    "bio": {
+        "origin": "Murshidabad, West Bengal",
+        "story": "Dropped out of law college to pursue practical skills. Founded EME Academy in 2016 to solve India's skill gap. Worked in Saudi Arabia, started multiple ventures, authored a bestselling business book, and runs a successful magazine.",
+        "achievements": [
+            "Trained 6,000+ students",
+            "Founded multiple job-creating businesses",
+            "Published 'How to Become a Successful Businessman'",
+            "Started 'Ek Nojore' magazine"
+        ]
+    },
+    "coachingPrograms": [
+        {
+            "title": "Private 1:1 Business Coaching",
+            "description": "Weekly personalized guidance to launch and grow your business.",
+            "benefits": [
+                "Start from scratch",
+                "Fix bottlenecks",
+                "Build teams & systems",
+                "Create long-term impact"
+            ]
+        },
+        {
+            "title": "Youth Entrepreneurship Bootcamp",
+            "description": "2-day workshop for youth and job seekers to launch their first business.",
+            "benefits": [
+                "Business discovery",
+                "Self-reliance skills",
+                "Build first revenue model"
+            ]
+        },
+        {
+            "title": "Core Team Strategy Workshops",
+            "description": "Team alignment and strategic planning for small businesses.",
+            "benefits": [
+                "Clarity of vision",
+                "Improved team communication",
+                "Set and track measurable goals"
+            ]
+        }
+    ],
+    "speaking": {
+        "description": "Book Sumon for bold and energetic sessions filled with raw personal storytelling and impact-driven insights.",
+        "cta": "Book Now"
+    },
+    "book": {
+        "title": "How to Become a Successful Businessman",
+        "description": "Includes real-world business frameworks, student success stories, and life lessons from failures and travels.",
+        "image": "/assets/book.jpg",
+        "link": "#"
+    },
+    "awards": [
+        {
+            "title": "Best Placement Institute of the Year – 2024",
+            "description": "Recognized by the EME Academy board for excellence in student outcomes and placement."
+        },
+        {
+            "title": "EME Academy Star Awards 2025",
+            "description": "Honored for leadership and commitment to building a culture of success."
+        }
+    ],
+    "vision": {
+        "quote": "Success isn’t about being rich; it’s about making others rise with you.",
+        "goals": [
+            "Train 50,000+ entrepreneurs from small towns",
+            "Build employment-generating industries in underdeveloped districts",
+            "Offer free training for financially struggling students",
+            "Create an India where no one needs to leave their village"
+        ]
+    },
+    "services": [
+        "Weekly 1:1 Coaching",
+        "Group Bootcamps",
+        "Keynote Speaking",
+        "Team Workshops",
+        "Business Launch Guidance",
+        "Life & Purpose Coaching"
+    ],
+    "availability": [
+        "Kolkata",
+        "Delhi",
+        "Bengaluru",
+        "Online (PAN India)"
+    ],
+    "finalNote": "I left college not to quit, but to find a different way to rise. Every young person deserves that chance. I’m here to show them how.",
+    "contact": {
+        "email": "your@email.com",
+        "phone": "+91 8017776957",
+        "socials": [
+            "Instagram",
+            "Facebook",
+            "YouTube",
+            "LinkedIn"
+        ]
+    }
+}
